@@ -16,17 +16,17 @@ Original title – *Gone with the Wind*
 
 * Circular shifts (key words underlined) 
 
-** Gone with the Wind 
+  * Gone with the Wind 
 
-** with the Wind Gone 
+  * with the Wind Gone 
 
-** the Wind Gone with 
+  * the Wind Gone with 
 
-** Wind Gone with the 
+  * Wind Gone with the 
 
 * Stop word removal 
 
-** Gone with the Wind 
+  * Gone with the Wind 
 
-** Wind Gone with the
+  * Wind Gone with the
 
