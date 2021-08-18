@@ -14,19 +14,19 @@ Note: Common (stop) words may be omitted!
 
 Original title – *Gone with the Wind* 
 
-* Circular shifts (key words underlined) 
+* Circular shifts
 
-  * <u>Gone</u> with the Wind 
+  * Gone with the Wind 
 
-  * <u>with</u> the Wind Gone 
+  * with the Wind Gone 
 
-  * <u>the</u> Wind Gone with 
+  * the Wind Gone with 
 
-  * <u>Wind</u> Gone with the 
+  * Wind Gone with the 
 
 * Stop word removal 
 
-  * <u>Gone</u> with the Wind 
+  * Gone with the Wind 
 
-  * <u>Wind</u> Gone with the
+  * Wind Gone with the
 
